@@ -1,9 +1,9 @@
 ### Hello there 👋
 If you are here that means you want to know more about me and that's great!
 
-- 🎓 I’m currently working to finish my Computer science and Engineering Degree. This is my last year and I'm eager to discover all the possibilities.
-- ✨ My main interents include compilers, networking, language design and computers graphics, but I still haven't settled for anything.
-- 🌱 I’m currently learning Go, but that doesn't mean I stop looking for new things!
+- 🎓 I’m currently studying a High performance computing master. Discovering new things.
+- ✨ My main interents include compilers, computer architecture, language design and computers graphics, but I still haven't settled for anything.
+- 🌱 I’m currently trying to contribute more to open source
 - 💫 The languages I have more experience with are Rust, C++, Javascript, Typescript and Python, but I have also used Haskell, Go, C, Ruby, Zig, C# and Nim.
 - 🤯 If you want more information, you can check out my personal page at [castillodel.github.io](castillodel.github.io)
 - 📚 You can also check out my [other GitHub account](https://github.com/Daniel-del-Castillo) where you can find the projects I made as assignments for the university
