@@ -9,8 +9,9 @@ If you are here that means you want to know more about me and that's great!
 - 📚 You can also check out my [other GitHub account](https://github.com/Daniel-del-Castillo) where you can find the projects I made as assignments for the university
 
 
-📊 Some stats about my Github (Keep in mind they don't count forks):
+📊 Some stats about my Github:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastilloDel&theme=tokyonight&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CastilloDel&layout=compact&langs_count=10&hide=GLSL&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I like this language stats, but I also feel they aren't completely representative. They don't take into account work that I've done in repos I don't own or that started in my other GitHub account, so take it with a grain of salt!
